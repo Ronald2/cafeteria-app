@@ -125,5 +125,3 @@ node src/app.js
 Este proyecto está licenciado bajo la MIT License.
 
 ---
-
-Desarrollado por Ronald Báez y colaboradores.
